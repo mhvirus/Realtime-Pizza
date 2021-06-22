@@ -1,11 +1,11 @@
-[.] Create a directory structure
-[.] Create a NPM(yarn) project and install all dependancies
+[+] Create a directory structure
+[+] Create a NPM(yarn) project and install all dependancies
     - Dependancies
         - express
         - ejs express-ejs-layoutc
     - Dev Dependancies
         - nodemon
-[.] Create express server - Create a server.js file
+[+] Create express server - Create a server.js file
 [.] Create Homepage using HTML & CSS
     - include tailwind CSS
 [.] Create Cart Page
@@ -13,3 +13,7 @@
     - empty cart selection
 [.] Create Oder controller and link it in server.js
 [.] Create Oder view with table for costomer and admin
+[.] Create Oder single page with status
+[.] Create Login page with route
+[.] Create Register page with route
+[.] Build Register CURD
