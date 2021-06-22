@@ -4,5 +4,13 @@
   "description": "This Realtime Pizza WebApp",
   "main": "index.js",
   "author": "Haris Qasim <harisqasim78@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }

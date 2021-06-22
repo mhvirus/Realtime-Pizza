@@ -1,5 +1,5 @@
 [.] Create a directory structure
-[.] Create a NPM project and install all dependancies
+[.] Create a NPM(yarn) project and install all dependancies
     - Dependancies
         - express
         - ejs express-ejs-layoutc
@@ -11,4 +11,5 @@
 [.] Create Cart Page
     - order summary selection
     - empty cart selection
-[.] 
+[.] Create Oder controller and link it in server.js
+[.] Create Oder view with table for costomer and admin
