@@ -1,0 +1,8 @@
+{
+  "name": "realtime-pizza",
+  "version": "1.0.0",
+  "description": "This Realtime Pizza WebApp",
+  "main": "index.js",
+  "author": "Haris Qasim <harisqasim78@gmail.com>",
+  "license": "MIT"
+}

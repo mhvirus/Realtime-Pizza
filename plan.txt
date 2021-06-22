@@ -5,3 +5,10 @@
         - ejs express-ejs-layoutc
     - Dev Dependancies
         - nodemon
+[.] Create express server - Create a server.js file
+[.] Create Homepage using HTML & CSS
+    - include tailwind CSS
+[.] Create Cart Page
+    - order summary selection
+    - empty cart selection
+[.] 
