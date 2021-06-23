@@ -6,6 +6,10 @@
     - Dev Dependancies
         - nodemon
 [+] Create express server - Create a server.js file
+[+] Git Setup and first commit
+[.] install laraval mix
+    - step js and css
+[.] install tailwind css
 [.] Create Homepage using HTML & CSS
     - include tailwind CSS
 [.] Create Cart Page
