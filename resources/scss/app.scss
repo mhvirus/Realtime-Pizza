@@ -39,3 +39,11 @@ section.hero {
         transition: $smooth;
     }
 }
+
+.btn-primary {
+    background: $primary;
+    &:hover {
+        background: $primary-hover;
+        transition: $smooth;
+    }
+}
