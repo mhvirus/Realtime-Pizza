@@ -47,3 +47,12 @@ section.hero {
         transition: $smooth;
     }
 }
+
+
+section.cart {
+    background: $secondary;
+    .amount{
+        color: $primary;
+    }
+}
+
